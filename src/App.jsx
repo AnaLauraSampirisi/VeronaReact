@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       <NavBar />
-      <ItemListContainer saludo={"Bienvenida"} />
+      <ItemListContainer saludo={"Bienvenido a Verona"} />
     </div>
   );
 };
